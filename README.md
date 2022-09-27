@@ -19,12 +19,12 @@
 
 <p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=CYang828&theme=onedark" /> </p>
 
+<p align="center">微信公众号</p>
 <p align="center">
-    微信公众号
     <img src="http://aimaksen.bslience.cn/qrcode_cyang.jpg" />
 </p>
 
+<p align="center">知乎</p>
 <p align="center">
-    知乎
     <img src="http://aimaksen.bslience.cn/zhihu-qrcode.jpg" width=400/>
 </p>
