@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    An <b>AI Architecture / Practical and Interesting </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Beijing, China.
+    <b>AI Architecture Solutioner / Practical and Interesting </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Beijing, China.
   </em>
  </p>
 
@@ -15,7 +15,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Software Engineer;
+- 👨🏽‍💻 I’m an AI Architecture Solutioner;
 - 💼 I’m completed my Master's degree in Tsinghua University;
 - 🤔 My interests are with NLP 🖥️, Data Science 📊,  Compute Cloud 🏏, etc..;
 - 💬 Ask me about anything, I am happy to help;
