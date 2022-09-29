@@ -71,5 +71,5 @@
 
 <p align="center">知乎</p>
 <p align="center">
-    <img src="http://aimaksen.bslience.cn/zhihu-qrcode.jpg" width=400 height=400 />
+    <img src="http://aimaksen.bslience.cn/zhihu-qrcode.jpg" width=350 height=350 />
 </p>
