@@ -1,6 +1,11 @@
 # Hi there, I'm [CYang](https://www.zhihu.com/people/CYang)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-![](https://komarev.com/ghpvc/?username=CYang828&color=yellowgreen)
+   <p align="left">
+      <a href="https://github.com/CYang828?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CYang828?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/CYang828?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CYang828?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 <p>
   <em>
