@@ -66,15 +66,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYang828&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
-
-### Follow Me
-
-<p align="center">微信公众号</p>
-<p align="center">
-    <img src="http://aimaksen.bslience.cn/qrcode_cyang.jpg" />
-</p>
-
-<p align="center">知乎</p>
-<p align="center">
-    <img src="http://aimaksen.bslience.cn/zhihu-qrcode.jpg" width=340 height=340 />
-</p>
